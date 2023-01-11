@@ -1,8 +1,7 @@
 fx_version "adamant"
 game "gta5"
 
-author "Lucifer#3333"
-description "https://github.com/5mLucifer/Video-Code"
+author "Kratex#9614"
 
 client_scripts {
     "client/*.lua"
